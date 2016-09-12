@@ -14,12 +14,12 @@
     var map = {
         'app': 'apps',
         'components': 'components',
-        '@angular': 'https://npmcdn.com/@angular',
-        'angular2-in-memory-web-api': 'https://npmcdn.com/angular2-in-memory-web-api',
-        'moment': 'https://npmcdn.com/moment@2.14.1',
-        'rxjs': 'https://npmcdn.com/rxjs@5.0.0-beta.6',
-        'ts': 'https://npmcdn.com/plugin-typescript@4.0.10/lib',
-        'typescript': 'https://npmcdn.com/typescript@1.8.10',
+        '@angular': 'https://unpkg.com/@angular',
+        'angular2-in-memory-web-api': 'https://unpkg.com/angular2-in-memory-web-api',
+        'moment': 'https://unpkg.com/moment@2.14.1',
+        'rxjs': 'https://unpkg.com/rxjs@5.0.0-beta.6',
+        'ts': 'https://unpkg.com/plugin-typescript@4.0.10/lib',
+        'typescript': 'https://unpkg.com/typescript@1.8.10',
     };
 
     //packages tells the System loader how to load when no filename and/or no extension
